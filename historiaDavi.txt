@@ -1,2 +1,3 @@
 fundei uma empresa 
-a empresa � de jogos 
+a empresa é de jogos 
+O jogo é de tiro em primeira pessoa
